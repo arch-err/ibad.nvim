@@ -1,4 +1,4 @@
 lua << EOF
-local ibad = require("venomous")
+local ibad = require("ibad")
 ibad.setup({})
 EOF
